@@ -7,7 +7,14 @@
 
 数学
 
-* :triangular_ruler:[线性代数](https://github.com/colorhistory/Book/raw/master/math/线性代数.pdf)
+* :triangular_ruler:[线性代数](https://github.com/SuperCV/Book/raw/master/数学/线性代数.pdf)
 
-* 
+* :triangular_ruler:[常微分方程]()
+
+数据结构和算法
+
+* :computer:[算法导论](https://github.com/supercv/raw/master/数据结构和算法/算法导论.pdf)
+
+  
+
 
