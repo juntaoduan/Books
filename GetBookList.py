@@ -37,7 +37,7 @@ if __name__ == '__main__':
              "CXX" : ":rose:",
              "Git" : ":octocat:",
              "Python" : ":snake:",
-             "Qt" : ":loudspeaker:",
+             "Qt" : ":battery:",
              "前端" : ":elephant:",
              "技术杂项" : ":unlock:",
              "操作系统" : ":computer:",
