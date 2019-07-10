@@ -24,7 +24,8 @@ def GetBookList(fileObject, EmojiMap):
         if os.path.isdir(eachFileAndDir) and (not eachFileAndDir.startswith(".")):
             directorys[eachFileAndDir] = []
             for eachPDF in os.listdir(os.getcwd()+"/"+eachFileAndDir):
-                directorys[eachFileAndDir].append("[" + eachPDF + "](https://github.com/SuperCV/Book/blob/master/" + eachFileAndDir + "/" + eachPDF + ")")
+                directorys[eachFileAndDir].append("[" + eachPDF + "](https://github.com/SuperCV/Book/blob/master/"
+                                                  + eachFileAndDir + "/" + eachPDF + ")")
 
     for key, value in directorys.items():
         fileObject.write("\n**"+key+"**\n")
