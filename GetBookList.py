@@ -40,11 +40,11 @@ if __name__ == '__main__':
              "Qt" : ":bookmark:",
              "前端" : ":elephant:",
              "技术杂项" : ":unlock:",
-             "操作系统" : ":floppy_disk:",
+             "操作系统" : ":computer:",
              "数学" : ":triangular_ruler:",
-             "数据结构和算法" : ":computer:",
+             "数据结构和算法" : ":anchor:",
              "计算机视觉" : ":see_no_evil:",
-             "设计模式" : ":hocko:"
+             "设计模式" : ":hoclo:"
     ""}
     fileObject = open("README.md", "tw")
     PrintTitle(fileObject)

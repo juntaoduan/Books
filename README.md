@@ -23,10 +23,10 @@
 
 
 **数据结构和算法**
-* :computer:[Data-Structures-And-Algorithm-AnalysisInCpp.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/Data-Structures-And-Algorithm-AnalysisInCpp.pdf)
-* :computer:[算法导论.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/算法导论.pdf)
-* :computer:[数据结构算法与应用-C++语言描述.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/数据结构算法与应用-C++语言描述.pdf)
-* :computer:[算法-影印版.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/算法-影印版.pdf)
+* :anchor:[Data-Structures-And-Algorithm-AnalysisInCpp.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/Data-Structures-And-Algorithm-AnalysisInCpp.pdf)
+* :anchor:[算法导论.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/算法导论.pdf)
+* :anchor:[数据结构算法与应用-C++语言描述.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/数据结构算法与应用-C++语言描述.pdf)
+* :anchor:[算法-影印版.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/算法-影印版.pdf)
 
 
 **Python**
@@ -52,12 +52,12 @@
 
 
 **操作系统**
-* :floppy_disk:[vbird-linux-basic.pdf](https://github.com/SuperCV/Book/blob/master/操作系统/vbird-linux-basic.pdf)
-* :floppy_disk:[深入理解计算机系统-英文原版.pdf](https://github.com/SuperCV/Book/blob/master/操作系统/深入理解计算机系统-英文原版.pdf)
+* :computer:[vbird-linux-basic.pdf](https://github.com/SuperCV/Book/blob/master/操作系统/vbird-linux-basic.pdf)
+* :computer:[深入理解计算机系统-英文原版.pdf](https://github.com/SuperCV/Book/blob/master/操作系统/深入理解计算机系统-英文原版.pdf)
 
 
 **设计模式**
-* :hocko:[设计模式-可复用面向对象软件的基础.pdf](https://github.com/SuperCV/Book/blob/master/设计模式/设计模式-可复用面向对象软件的基础.pdf)
+* :hoclo:[设计模式-可复用面向对象软件的基础.pdf](https://github.com/SuperCV/Book/blob/master/设计模式/设计模式-可复用面向对象软件的基础.pdf)
 
 
 **AI**
