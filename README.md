@@ -57,7 +57,7 @@
 
 
 **设计模式**
-* :hoclo:[设计模式-可复用面向对象软件的基础.pdf](https://github.com/SuperCV/Book/blob/master/设计模式/设计模式-可复用面向对象软件的基础.pdf)
+* :hocho:[设计模式-可复用面向对象软件的基础.pdf](https://github.com/SuperCV/Book/blob/master/设计模式/设计模式-可复用面向对象软件的基础.pdf)
 
 
 **AI**
