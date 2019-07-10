@@ -4,6 +4,8 @@
 无论闲暇还是烦躁都可以坐下来感受纸上之美。:smile:
 
 **技术杂项**
+* :unlock:[程序设计实践.pdf](https://github.com/SuperCV/Book/blob/master/技术杂项/程序设计实践.pdf)
+* :unlock:[Google-C-编程规范.pdf](https://github.com/SuperCV/Book/blob/master/技术杂项/Google-C-编程规范.pdf)
 
 
 **计算机视觉**
@@ -49,9 +51,26 @@
 * :octocat:[pro-git.pdf](https://github.com/SuperCV/Book/blob/master/Git/pro-git.pdf)
 
 
+**操作系统**
+* :floppy_disk:[vbird-linux-basic.pdf](https://github.com/SuperCV/Book/blob/master/操作系统/vbird-linux-basic.pdf)
+* :floppy_disk:[深入理解计算机系统-英文原版.pdf](https://github.com/SuperCV/Book/blob/master/操作系统/深入理解计算机系统-英文原版.pdf)
+
+
+**设计模式**
+* :hocko:[设计模式-可复用面向对象软件的基础.pdf](https://github.com/SuperCV/Book/blob/master/设计模式/设计模式-可复用面向对象软件的基础.pdf)
+
+
 **AI**
 * :runner:[PRML模式识别与机器学习.pdf](https://github.com/SuperCV/Book/blob/master/AI/PRML模式识别与机器学习.pdf)
 * :runner:[Pattern-Recognition-And-Machine-Learning.pdf](https://github.com/SuperCV/Book/blob/master/AI/Pattern-Recognition-And-Machine-Learning.pdf)
+
+
+**前端**
+* :elephant:[JavaScript基础.pdf](https://github.com/SuperCV/Book/blob/master/前端/JavaScript基础.pdf)
+* :elephant:[JavaScrit数据结构与算法.pdf](https://github.com/SuperCV/Book/blob/master/前端/JavaScrit数据结构与算法.pdf)
+* :elephant:[HTML5与CSS3基础教程.pdf](https://github.com/SuperCV/Book/blob/master/前端/HTML5与CSS3基础教程.pdf)
+* :elephant:[css揭秘.pdf](https://github.com/SuperCV/Book/blob/master/前端/css揭秘.pdf)
+* :elephant:[JavaScript高级程序设计.pdf](https://github.com/SuperCV/Book/blob/master/前端/JavaScript高级程序设计.pdf)
 
 
 **CXX**
@@ -64,7 +83,10 @@
 
 
 **Qt**
+* :bookmark:[Game-Progrmming-Using-Qt-Beginner's-Guide.pdf](https://github.com/SuperCV/Book/blob/master/Qt/Game-Progrmming-Using-Qt-Beginner's-Guide.pdf)
 * :bookmark:[C++-GUI-Programming-With-Qt-4-2nd-Edition.pdf](https://github.com/SuperCV/Book/blob/master/Qt/C++-GUI-Programming-With-Qt-4-2nd-Edition.pdf)
+* :bookmark:[Qt5-C++-GUI-Programming-Cookbook.pdf](https://github.com/SuperCV/Book/blob/master/Qt/Qt5-C++-GUI-Programming-Cookbook.pdf)
+* :bookmark:[mastering-qt5.pdf](https://github.com/SuperCV/Book/blob/master/Qt/mastering-qt5.pdf)
 
 
 **数学**

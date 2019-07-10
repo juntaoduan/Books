@@ -34,14 +34,18 @@ def GetBookList(fileObject, EmojiMap):
 
 if __name__ == '__main__':
     Emoji = {"AI" : ":runner:",
-             "数学" : ":triangular_ruler:",
-             "数据结构和算法" : ":computer:",
-             "Python" : ":snake:",
              "CXX" : ":rose:",
              "Git" : ":octocat:",
-             "计算机视觉" : ":see_no_evil:",
+             "Python" : ":snake:",
              "Qt" : ":bookmark:",
-             "技术杂项" : ":unlock:"}
+             "前端" : ":elephant:",
+             "技术杂项" : ":unlock:",
+             "操作系统" : ":floppy_disk:",
+             "数学" : ":triangular_ruler:",
+             "数据结构和算法" : ":computer:",
+             "计算机视觉" : ":see_no_evil:",
+             "设计模式" : ":hocko:"
+    ""}
     fileObject = open("README.md", "tw")
     PrintTitle(fileObject)
     GetBookList(fileObject, Emoji)
