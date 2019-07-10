@@ -83,10 +83,10 @@
 
 
 **Qt**
-* :bookmark:[Game-Progrmming-Using-Qt-Beginner's-Guide.pdf](https://github.com/SuperCV/Book/blob/master/Qt/Game-Progrmming-Using-Qt-Beginner's-Guide.pdf)
-* :bookmark:[C++-GUI-Programming-With-Qt-4-2nd-Edition.pdf](https://github.com/SuperCV/Book/blob/master/Qt/C++-GUI-Programming-With-Qt-4-2nd-Edition.pdf)
-* :bookmark:[Qt5-C++-GUI-Programming-Cookbook.pdf](https://github.com/SuperCV/Book/blob/master/Qt/Qt5-C++-GUI-Programming-Cookbook.pdf)
-* :bookmark:[mastering-qt5.pdf](https://github.com/SuperCV/Book/blob/master/Qt/mastering-qt5.pdf)
+* :loudspeaker:[Game-Progrmming-Using-Qt-Beginner's-Guide.pdf](https://github.com/SuperCV/Book/blob/master/Qt/Game-Progrmming-Using-Qt-Beginner's-Guide.pdf)
+* :loudspeaker:[C++-GUI-Programming-With-Qt-4-2nd-Edition.pdf](https://github.com/SuperCV/Book/blob/master/Qt/C++-GUI-Programming-With-Qt-4-2nd-Edition.pdf)
+* :loudspeaker:[Qt5-C++-GUI-Programming-Cookbook.pdf](https://github.com/SuperCV/Book/blob/master/Qt/Qt5-C++-GUI-Programming-Cookbook.pdf)
+* :loudspeaker:[mastering-qt5.pdf](https://github.com/SuperCV/Book/blob/master/Qt/mastering-qt5.pdf)
 
 
 **数学**
