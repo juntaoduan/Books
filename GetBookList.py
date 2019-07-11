@@ -44,6 +44,7 @@ if __name__ == '__main__':
              "操作系统" : ":computer:",
              "数学" : ":triangular_ruler:",
              "数据结构和算法" : ":anchor:",
+             "朗道理论物理教程" : ":bomb:",
              "计算机视觉" : ":see_no_evil:",
              "设计模式" : ":hocho:"
     ""}

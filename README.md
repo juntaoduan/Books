@@ -9,6 +9,15 @@
 * :unlock:[Google-C-编程规范.pdf](https://github.com/SuperCV/Book/blob/master/技术杂项/Google-C-编程规范.pdf)
 
 
+**朗道理论物理教程**
+* :bomb:[朗道理论物理教程-场论.pdf](https://github.com/SuperCV/Book/blob/master/朗道理论物理教程/朗道理论物理教程-场论.pdf)
+* :bomb:[朗道理论物理教程-统计物理学I.pdf](https://github.com/SuperCV/Book/blob/master/朗道理论物理教程/朗道理论物理教程-统计物理学I.pdf)
+* :bomb:[朗道理论物理教程-统计物理学II.pdf](https://github.com/SuperCV/Book/blob/master/朗道理论物理教程/朗道理论物理教程-统计物理学II.pdf)
+* :bomb:[朗道理论物理教程-物理动力学.pdf](https://github.com/SuperCV/Book/blob/master/朗道理论物理教程/朗道理论物理教程-物理动力学.pdf)
+* :bomb:[朗道理论物理教程-量子电动力学.pdf](https://github.com/SuperCV/Book/blob/master/朗道理论物理教程/朗道理论物理教程-量子电动力学.pdf)
+* :bomb:[朗道理论物理教程-力学.pdf](https://github.com/SuperCV/Book/blob/master/朗道理论物理教程/朗道理论物理教程-力学.pdf)
+
+
 **计算机视觉**
 * :see_no_evil:[Computer-Vision:Models-Learnings-And-Inference-part3.pdf](https://github.com/SuperCV/Book/blob/master/计算机视觉/Computer-Vision:Models-Learnings-And-Inference-part3.pdf)
 * :see_no_evil:[Mastering-OpenCV-with-Practical-Computer-Vision-Projects.pdf](https://github.com/SuperCV/Book/blob/master/计算机视觉/Mastering-OpenCV-with-Practical-Computer-Vision-Projects.pdf)
