@@ -46,7 +46,8 @@ if __name__ == '__main__':
              "数据结构和算法" : ":anchor:",
              "朗道理论物理教程" : ":bomb:",
              "计算机视觉" : ":see_no_evil:",
-             "设计模式" : ":hocho:"
+             "设计模式" : ":hocho:",
+             "Boost库" : ":rocket:"
     ""}
     fileObject = open("README.md", "tw")
     PrintTitle(fileObject)
