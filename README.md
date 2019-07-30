@@ -114,7 +114,6 @@
 
 **鸡血**
 * :four_leaf_clover:[如何学习.pdf](https://github.com/SuperCV/Book/blob/master/鸡血/如何学习.pdf)
-* :four_leaf_clover:[Unconfirmed 285005.crdownload](https://github.com/SuperCV/Book/blob/master/鸡血/Unconfirmed 285005.crdownload)
 * :four_leaf_clover:[精准努力.pdf](https://github.com/SuperCV/Book/blob/master/鸡血/精准努力.pdf)
 * :four_leaf_clover:[资本之都.pdf](https://github.com/SuperCV/Book/blob/master/鸡血/资本之都.pdf)
 * :four_leaf_clover:[最富足的投资.pdf](https://github.com/SuperCV/Book/blob/master/鸡血/最富足的投资.pdf)
