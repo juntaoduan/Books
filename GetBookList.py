@@ -47,7 +47,8 @@ if __name__ == '__main__':
              "朗道理论物理教程" : ":bomb:",
              "计算机视觉" : ":see_no_evil:",
              "设计模式" : ":hocho:",
-             "Boost库" : ":rocket:"
+             "Boost库" : ":rocket:",
+             "鸡血" : ":four_leaf_clover:"
     ""}
     fileObject = open("README.md", "tw")
     PrintTitle(fileObject)
