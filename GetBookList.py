@@ -48,7 +48,8 @@ if __name__ == '__main__':
              "计算机视觉" : ":see_no_evil:",
              "设计模式" : ":hocho:",
              "Boost库" : ":rocket:",
-             "鸡血" : ":four_leaf_clover:"
+             "鸡血" : ":four_leaf_clover:",
+             "CMake" : ":paperclip:"
     ""}
     fileObject = open("README.md", "tw")
     PrintTitle(fileObject)
