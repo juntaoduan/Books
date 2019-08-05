@@ -168,7 +168,6 @@
 * :see_no_evil:[视觉SLAM十四讲:从理论到实践.pdf](https://github.com/SuperCV/Book/blob/master/计算机视觉/视觉SLAM十四讲:从理论到实践.pdf)
 * :see_no_evil:[OpenCV-with-Python-By-Example.pdf](https://github.com/SuperCV/Book/blob/master/计算机视觉/OpenCV-with-Python-By-Example.pdf)
 * :see_no_evil:[opencv_tutorials.pdf](https://github.com/SuperCV/Book/blob/master/计算机视觉/opencv_tutorials.pdf)
-* :see_no_evil:[~$OpenCV图像处理.pdf](https://github.com/SuperCV/Book/blob/master/计算机视觉/~$OpenCV图像处理.pdf)
 
 
 **设计模式**
