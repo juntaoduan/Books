@@ -49,8 +49,9 @@ if __name__ == '__main__':
              "设计模式" : ":hocho:",
              "Boost库" : ":rocket:",
              "鸡血" : ":four_leaf_clover:",
-             "CMake" : ":paperclip:"
-    ""}
+             "CMake" : ":paperclip:",
+             "量化分析" : ":euro:",
+    }
     fileObject = open("README.md", "tw")
     PrintTitle(fileObject)
     GetBookList(fileObject, Emoji)

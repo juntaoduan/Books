@@ -8,6 +8,8 @@
 * :runner:[统计学习方法-李航.pdf](https://github.com/SuperCV/Book/blob/master/AI/统计学习方法-李航.pdf)
 * :runner:[Machine-Learning-for-OpenCV.pdf](https://github.com/SuperCV/Book/blob/master/AI/Machine-Learning-for-OpenCV.pdf)
 * :runner:[PRML模式识别与机器学习.pdf](https://github.com/SuperCV/Book/blob/master/AI/PRML模式识别与机器学习.pdf)
+* :runner:[ML课程总结.pdf](https://github.com/SuperCV/Book/blob/master/AI/ML课程总结.pdf)
+* :runner:[机器学习系统设计.pdf](https://github.com/SuperCV/Book/blob/master/AI/机器学习系统设计.pdf)
 
 
 **Boost库**
@@ -24,6 +26,7 @@
 * :rose:[ISOIEC-14882-2017.pdf](https://github.com/SuperCV/Book/blob/master/CXX/ISOIEC-14882-2017.pdf)
 * :rose:[Modern-C++-Design.pdf](https://github.com/SuperCV/Book/blob/master/CXX/Modern-C++-Design.pdf)
 * :rose:[Effective_Modern_C++.pdf](https://github.com/SuperCV/Book/blob/master/CXX/Effective_Modern_C++.pdf)
+* :rose:[C++-Templates中文版.pdf](https://github.com/SuperCV/Book/blob/master/CXX/C++-Templates中文版.pdf)
 
 
 **Git**
@@ -68,9 +71,12 @@
 * :snake:[Python设计模式.pdf](https://github.com/SuperCV/Book/blob/master/Python/Python设计模式.pdf)
 * :snake:[精通Python设计模式.pdf](https://github.com/SuperCV/Book/blob/master/Python/精通Python设计模式.pdf)
 * :snake:[Python3-CookBook中文版.pdf](https://github.com/SuperCV/Book/blob/master/Python/Python3-CookBook中文版.pdf)
-* :snake:[Python数据分析基础教程NumPy学习指南.pdf](https://github.com/SuperCV/Book/blob/master/Python/Python数据分析基础教程NumPy学习指南.pdf)
 * :snake:[Python项目开发实战.pdf](https://github.com/SuperCV/Book/blob/master/Python/Python项目开发实战.pdf)
 * :snake:[流畅的Python.pdf](https://github.com/SuperCV/Book/blob/master/Python/流畅的Python.pdf)
+* :snake:[Python数据分析与挖掘实战.pdf](https://github.com/SuperCV/Book/blob/master/Python/Python数据分析与挖掘实战.pdf)
+* :snake:[Python学习手册.pdf](https://github.com/SuperCV/Book/blob/master/Python/Python学习手册.pdf)
+* :snake:[Python-3面向对象编程.pdf](https://github.com/SuperCV/Book/blob/master/Python/Python-3面向对象编程.pdf)
+* :snake:[Python数据分析基础教程NumPy学习指南.pdf](https://github.com/SuperCV/Book/blob/master/Python/Python数据分析基础教程NumPy学习指南.pdf)
 
 
 **Qt**
@@ -123,7 +129,6 @@
 **数据结构和算法**
 * :anchor:[Data-Structures-And-Algorithm-AnalysisInCpp.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/Data-Structures-And-Algorithm-AnalysisInCpp.pdf)
 * :anchor:[数据结构算法与应用-C++语言描述.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/数据结构算法与应用-C++语言描述.pdf)
-* :anchor:[机器学习系统设计.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/机器学习系统设计.pdf)
 * :anchor:[算法-影印版.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/算法-影印版.pdf)
 * :anchor:[算法图解.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/算法图解.pdf)
 * :anchor:[算法导论.pdf](https://github.com/SuperCV/Book/blob/master/数据结构和算法/算法导论.pdf)
@@ -200,4 +205,19 @@
 * :paperclip:[CMake-Practice.pdf](https://github.com/SuperCV/Book/blob/master/CMake/CMake-Practice.pdf)
 * :paperclip:[modern-cmake.pdf](https://github.com/SuperCV/Book/blob/master/CMake/modern-cmake.pdf)
 * :paperclip:[mastering-cmake.pdf](https://github.com/SuperCV/Book/blob/master/CMake/mastering-cmake.pdf)
+
+
+**量化分析**
+* :euro:[梯度下降.pdf](https://github.com/SuperCV/Book/blob/master/量化分析/梯度下降.pdf)
+* :euro:[打开量化投资的黑箱.pdf](https://github.com/SuperCV/Book/blob/master/量化分析/打开量化投资的黑箱.pdf)
+* :euro:[数据挖掘概念与技术.pdf](https://github.com/SuperCV/Book/blob/master/量化分析/数据挖掘概念与技术.pdf)
+* :euro:[零起点Python大数据与量化交易.pdf](https://github.com/SuperCV/Book/blob/master/量化分析/零起点Python大数据与量化交易.pdf)
+* :euro:[机器学习.pdf](https://github.com/SuperCV/Book/blob/master/量化分析/机器学习.pdf)
+* :euro:[同济高等数学第六版上下册.pdf](https://github.com/SuperCV/Book/blob/master/量化分析/同济高等数学第六版上下册.pdf)
+* :euro:[MySQL必知必会.pdf](https://github.com/SuperCV/Book/blob/master/量化分析/MySQL必知必会.pdf)
+* :euro:[数据挖掘与分析.pdf](https://github.com/SuperCV/Book/blob/master/量化分析/数据挖掘与分析.pdf)
+* :euro:[概率论与数理统计.pdf](https://github.com/SuperCV/Book/blob/master/量化分析/概率论与数理统计.pdf)
+* :euro:[数理统计教程.pdf](https://github.com/SuperCV/Book/blob/master/量化分析/数理统计教程.pdf)
+* :euro:[深度学习Deep-Learning.pdf](https://github.com/SuperCV/Book/blob/master/量化分析/深度学习Deep-Learning.pdf)
+* :euro:[量化研究手册-数据分析.pdf](https://github.com/SuperCV/Book/blob/master/量化分析/量化研究手册-数据分析.pdf)
 
