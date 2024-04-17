@@ -1,7 +1,3 @@
-# 书籍
-个人书籍收藏
-
-无论闲暇还是烦躁都可以坐下来感受纸上之美。:smile:
 
 **计算机视觉**
 * :see_no_evil:[OpenCV图像处理.pdf](https://github.com/SuperCV/Book/blob/master/计算机视觉/OpenCV图像处理.pdf)
